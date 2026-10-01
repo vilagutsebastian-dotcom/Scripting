@@ -1,0 +1,19 @@
+using UnityEngine;
+
+public class HelloWorld : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        // Output to the console greetings to the world
+        Debug.Log("Hello, World!");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+
+ 
